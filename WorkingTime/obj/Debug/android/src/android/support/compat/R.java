@@ -1845,9 +1845,9 @@ containing a value of this type.
         public static int dim_foreground_material_dark=0x7f0a0014;
         public static int dim_foreground_material_light=0x7f0a0015;
         public static int error_color_material=0x7f0a0016;
-        public static int fffff99ffffff99f=0x7f0a003e;
         public static int foreground_material_dark=0x7f0a0017;
         public static int foreground_material_light=0x7f0a0018;
+        public static int highligh=0x7f0a003e;
         public static int highlighted_text_material_dark=0x7f0a0019;
         public static int highlighted_text_material_light=0x7f0a001a;
         public static int material_blue_grey_800=0x7f0a001b;
