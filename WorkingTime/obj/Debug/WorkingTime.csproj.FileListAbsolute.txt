@@ -1,3 +1,4 @@
+/Users/riccardo/Projects/WorkingTime/WorkingTime/obj/Debug/WorkingTime.csproj.CoreCompileInputs.cache
 /Users/riccardo/Projects/WorkingTime/WorkingTime/bin/Debug/WorkingTime.dll
 /Users/riccardo/Projects/WorkingTime/WorkingTime/bin/Debug/WorkingTime.pdb
 /Users/riccardo/Projects/WorkingTime/WorkingTime/bin/Debug/com.riccardotreso.WorkingTime.apk
@@ -14,7 +15,6 @@
 /Users/riccardo/Projects/WorkingTime/WorkingTime/bin/Debug/Xamarin.Android.Support.Media.Compat.dll
 /Users/riccardo/Projects/WorkingTime/WorkingTime/bin/Debug/Xamarin.Android.Support.v7.AppCompat.dll
 /Users/riccardo/Projects/WorkingTime/WorkingTime/bin/Debug/Xamarin.Android.Support.Vector.Drawable.dll
-/Users/riccardo/Projects/WorkingTime/WorkingTime/obj/Debug/WorkingTime.csproj.CoreCompileInputs.cache
 /Users/riccardo/Projects/WorkingTime/WorkingTime/obj/Debug/WorkingTime.dll
 /Users/riccardo/Projects/WorkingTime/WorkingTime/obj/Debug/WorkingTime.pdb
 /Users/riccardo/Projects/WorkingTime/WorkingTime/obj/Debug/android/bin/com.riccardotreso.WorkingTime.apk
@@ -26,6 +26,7 @@
 /Users/riccardo/Projects/WorkingTime/WorkingTime/obj/Debug/res/mipmap-xxhdpi/icon.png
 /Users/riccardo/Projects/WorkingTime/WorkingTime/obj/Debug/res/mipmap-xxxhdpi/icon.png
 /Users/riccardo/Projects/WorkingTime/WorkingTime/obj/Debug/res/layout/listworktime.xml
+/Users/riccardo/Projects/WorkingTime/WorkingTime/obj/Debug/res/values/colors.xml
 /Users/riccardo/Projects/WorkingTime/WorkingTime/obj/Debug/R.cs.flag
 /Users/riccardo/Projects/WorkingTime/WorkingTime/obj/Debug/R.txt
 /Users/riccardo/Projects/WorkingTime/WorkingTime/obj/Debug/uploadflags.txt

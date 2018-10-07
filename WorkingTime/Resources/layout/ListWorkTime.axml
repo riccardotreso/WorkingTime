@@ -21,12 +21,21 @@
         android:id="@+id/txtDateEnd"
         android:textColor="#ff4c8752"
         android:gravity="right"
-        android:textStyle="bold" />
+        android:textStyle="bold"
+        android:layout_gravity="right" />
+    <TextView
+        android:text=""
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/hddIdItem"
+        android:visibility="gone" />
     <Button
         android:layout_width="57.0dp"
         android:layout_height="43.5dp"
         android:id="@+id/btnDelete"
         android:text="Del"
         android:gravity="center"
-        android:layout_gravity="right" />
+        android:layout_gravity="right"
+        android:onClick="OnClickDelete" />
 </LinearLayout>
