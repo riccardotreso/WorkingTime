@@ -14,16 +14,8 @@
     <Jar>/Users/riccardo/Projects/WorkingTime/WorkingTime/obj/Release/lp/8/jl/bin/classes.jar</Jar>
     <Jar>/Users/riccardo/Projects/WorkingTime/WorkingTime/obj/Release/lp/9/jl/bin/classes.jar</Jar>
   </Jars>
-  <ResolvedResourceDirectories>
-    <ResolvedResourceDirectory>/Users/riccardo/Projects/WorkingTime/WorkingTime/obj/Release/lp/6/jl/res</ResolvedResourceDirectory>
-    <ResolvedResourceDirectory>/Users/riccardo/Projects/WorkingTime/WorkingTime/obj/Release/lp/10/jl/res</ResolvedResourceDirectory>
-    <ResolvedResourceDirectory>/Users/riccardo/Projects/WorkingTime/WorkingTime/obj/Release/lp/11/jl/res</ResolvedResourceDirectory>
-  </ResolvedResourceDirectories>
+  <ResolvedResourceDirectories />
   <ResolvedAssetDirectories />
   <ResolvedEnvironmentFiles />
-  <ResolvedResourceDirectoryStamps>
-    <ResolvedResourceDirectoryStamp>/Users/riccardo/Projects/WorkingTime/WorkingTime/obj/Release/lp/6.stamp</ResolvedResourceDirectoryStamp>
-    <ResolvedResourceDirectoryStamp>/Users/riccardo/Projects/WorkingTime/WorkingTime/obj/Release/lp/10.stamp</ResolvedResourceDirectoryStamp>
-    <ResolvedResourceDirectoryStamp>/Users/riccardo/Projects/WorkingTime/WorkingTime/obj/Release/lp/11.stamp</ResolvedResourceDirectoryStamp>
-  </ResolvedResourceDirectoryStamps>
+  <ResolvedResourceDirectoryStamps />
 </Paths>

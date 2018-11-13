@@ -60,6 +60,9 @@ namespace WorkingTime
 		{
 			
 			// aapt resource value: 0
+			public static int btn30 = 0;
+			
+			// aapt resource value: 0
 			public static int btnCalculateExit = 0;
 			
 			// aapt resource value: 0
@@ -116,7 +119,7 @@ namespace WorkingTime
 		{
 			
 			// aapt resource value: 0
-			public static int Icon = 0;
+			public static int icon = 0;
 			
 			static Mipmap()
 			{

@@ -1,7 +1,12 @@
 ﻿<Properties StartupConfiguration="{5DD6B97E-D787-4EDB-AED0-9FE9EE1949E7}|Default">
-  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.Workbench ActiveDocument="WorkingTime/Properties/AndroidManifest.xml">
+    <Files>
+      <File FileName="WorkingTime/Properties/AndroidManifest.xml" Line="11" Column="12" />
+      <File FileName="WorkingTime/Properties/AssemblyInfo.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
-  <MonoDevelop.Ide.ItemProperties.WorkingTime AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.612HKBQA278XM" AndroidDesignerPreferredTheme="Theme.DeviceDefault" />
+  <MonoDevelop.Ide.ItemProperties.WorkingTime AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.Android_Accelerated_Nougat" AndroidDesignerPreferredTheme="Theme.DeviceDefault" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore>
       <Breakpoint file="/Users/riccardo/Projects/WorkingTime/WorkingTime/TimeWorkAdapter.cs" relfile="WorkingTime/TimeWorkAdapter.cs" line="73" column="1" />
