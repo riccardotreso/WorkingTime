@@ -1,3 +1,4 @@
+Android-iBeacon-Service
 System.Runtime
 Xamarin.Android.Arch.Core.Common
 Xamarin.Android.Arch.Lifecycle.Common
@@ -9,5 +10,6 @@ Xamarin.Android.Support.Core.UI
 Xamarin.Android.Support.Core.Utils
 Xamarin.Android.Support.Fragment
 Xamarin.Android.Support.Media.Compat
+Xamarin.Android.Support.v4
 Xamarin.Android.Support.v7.AppCompat
 Xamarin.Android.Support.Vector.Drawable

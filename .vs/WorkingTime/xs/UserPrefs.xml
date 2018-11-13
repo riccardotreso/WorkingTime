@@ -1,12 +1,34 @@
 ﻿<Properties StartupConfiguration="{5DD6B97E-D787-4EDB-AED0-9FE9EE1949E7}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="WorkingTime/Properties/AndroidManifest.xml">
+  <MonoDevelop.Ide.Workbench ActiveDocument="WorkingTime/Resources/values/Strings.xml">
     <Files>
-      <File FileName="WorkingTime/Properties/AndroidManifest.xml" Line="11" Column="12" />
+      <File FileName="WorkingTime/Properties/AndroidManifest.xml" Line="3" Column="44" />
       <File FileName="WorkingTime/Properties/AssemblyInfo.cs" Line="1" Column="1" />
+      <File FileName="WorkingTime/MainActivity.cs" Line="179" Column="10" />
+      <File FileName="WorkingTime/MonitorNotifier.cs" Line="4" Column="22" />
+      <File FileName="WorkingTime/RangeNotifier.cs" Line="14" Column="6" />
+      <File FileName="WorkingTime/obj/Debug/lp/11/jl/res/values-v21/values-v21.xml" Line="1" Column="1" />
+      <File FileName="WorkingTime/Resources/values/Colors.xml" Line="1" Column="1" />
+      <File FileName="WorkingTime/Resources/values/Strings.xml" Line="1" Column="1" />
     </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="WorkingTime" expanded="True">
+            <Node name="WorkingTime" expanded="True">
+              <Node name="Properties" expanded="True" />
+              <Node name="Resources" expanded="True">
+                <Node name="values" expanded="True">
+                  <Node name="Strings.xml" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
-  <MonoDevelop.Ide.ItemProperties.WorkingTime AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.Android_Accelerated_Nougat" AndroidDesignerPreferredTheme="Theme.DeviceDefault" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.WorkingTime AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.612HKBQA278XM" AndroidDesignerPreferredTheme="Theme.DeviceDefault" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore>
       <Breakpoint file="/Users/riccardo/Projects/WorkingTime/WorkingTime/TimeWorkAdapter.cs" relfile="WorkingTime/TimeWorkAdapter.cs" line="73" column="1" />

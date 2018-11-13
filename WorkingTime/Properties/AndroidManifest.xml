@@ -1,11 +1,16 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionCode="1" android:versionName="1.0" package="com.riccardotreso.WorkingTime">
-	<uses-sdk android:minSdkVersion="10" />
-	<uses-permission android:name="android.permission.BLUETOOTH" />
-	<uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
-	<uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
-    <uses-feature
-        android:name="android.hardware.bluetooth_le"
-        android:required="true" />
-	<application android:allowBackup="true" android:icon="@drawable/icon" android:label="@string/app_name"></application>
+    <uses-sdk android:minSdkVersion="10" />
+    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
+    <uses-permission android:name="android.permission.BLUETOOTH" />
+	<application android:allowBackup="true" android:icon="@drawable/icon" android:label="@string/app_name">
+        <service android:enabled="true" android:exported="true" android:isolatedProcess="false" android:label="iBeacon" android:name="com.radiusnetworks.ibeacon.service.IBeaconService"></service>
+        <service android:enabled="true" android:name="com.radiusnetworks.ibeacon.IBeaconIntentProcessor">
+            <meta-data android:name="background" android:value="true" />
+            <intent-filter android:priority="1">
+                <action android:name="com.riccardotreso.DID_RANGING" />
+                <action android:name="com.riccardotreso.DID_MONITORING" />
+            </intent-filter>
+        </service>
+    </application>
 </manifest>
